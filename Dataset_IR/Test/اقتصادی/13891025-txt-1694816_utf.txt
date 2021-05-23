@@ -1,0 +1,1 @@
+./Dataset_IR/Test/اقتصادی/13891025-txt-1694816_utf.txt
