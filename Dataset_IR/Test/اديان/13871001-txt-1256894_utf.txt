@@ -1,0 +1,1 @@
+./Dataset_IR/Test/اديان/13871001-txt-1256894_utf.txt
