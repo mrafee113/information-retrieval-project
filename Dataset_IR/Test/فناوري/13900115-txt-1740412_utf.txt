@@ -1,0 +1,1 @@
+./Dataset_IR/Test/فناوري/13900115-txt-1740412_utf.txt
