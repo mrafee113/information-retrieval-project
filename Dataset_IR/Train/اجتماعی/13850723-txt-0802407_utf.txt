@@ -1,0 +1,1 @@
+./Dataset_IR/Train/اجتماعی/13850723-txt-0802407_utf.txt
