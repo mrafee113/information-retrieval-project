@@ -1,0 +1,1 @@
+./Dataset_IR/Test/اجتماعی/13860630-txt-1002033_utf.txt
