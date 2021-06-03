@@ -1,0 +1,1 @@
+./Dataset_IR/Train/ورزشی/13841026-txt-0651073_utf.txt
