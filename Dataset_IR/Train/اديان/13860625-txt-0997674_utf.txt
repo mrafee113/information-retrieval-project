@@ -1,0 +1,1 @@
+./Dataset_IR/Train/اديان/13860625-txt-0997674_utf.txt
