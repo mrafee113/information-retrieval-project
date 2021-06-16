@@ -1,0 +1,1 @@
+./Dataset_IR/Train/سیاسی/13840725-txt-0599073_utf.txt
