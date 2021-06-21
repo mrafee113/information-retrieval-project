@@ -1,0 +1,1 @@
+./Dataset_IR/Test/سیاسی/13890531-txt-1596470_utf.txt
