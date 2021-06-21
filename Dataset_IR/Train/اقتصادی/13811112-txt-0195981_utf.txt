@@ -1,0 +1,1 @@
+./Dataset_IR/Train/اقتصادی/13811112-txt-0195981_utf.txt
