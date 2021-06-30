@@ -1,0 +1,1 @@
+./Dataset_IR/Train/فناوري/13850306-txt-0724395_utf.txt
